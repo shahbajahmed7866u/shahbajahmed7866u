@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shahbaj Ahmed</h1>
 <h3 text align="center">A passionate developer, exploring the More Languages</h3>
-<img img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)">
+<img img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"">
 
 - 🌱 I’m currently learning **AWS, Android**
 
-- 💬 Ask me about **JAVA, Spring Boot, SQL**
+- 💬 Ask me about **JAVA, Spring Boot, SQL, MERN Stack**
 
 - 📫 How to reach me **shahbajahmed7866u@gmail,com**
 
